@@ -1,0 +1,3 @@
+[submodule "efont"]
+	path = efont
+	url = git@github.com:tanakamasayuki/efont.git
